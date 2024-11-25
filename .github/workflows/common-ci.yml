@@ -9,4 +9,4 @@ jobs:
   backend-task:
     uses: ShunSakakida/common-ci/.github/workflows/common-ci.yml@main
     with:
-      message: "This is a message from the backend repo"
+      message: "This is a message from the backend repo "
